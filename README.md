@@ -1,4 +1,4 @@
-# AIRecipeGenerator
+# AI Recipe Generator
 AI Recipe Generator that suggests meals based on available ingredients.
 
 ✅ Core Features
